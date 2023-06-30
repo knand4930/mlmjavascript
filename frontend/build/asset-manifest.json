@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f4eaa59.css",
+    "main.js": "/static/js/main.c41b94de.js",
+    "static/media/mobile.jpg": "/static/media/mobile.d96555fc116092761e60.jpg",
+    "static/media/awrapper.png": "/static/media/awrapper.036f9018c07415ea2769.png",
+    "static/media/workingPlan.png": "/static/media/workingPlan.31e2a2a6055348889c2d.png",
+    "static/media/logo.png": "/static/media/logo.af9d417e36ed68db0913.png",
+    "static/media/nonWorkingPlan.png": "/static/media/nonWorkingPlan.f94f71cc250df9e665a2.png",
+    "static/media/background2.jpg": "/static/media/background2.8ae13c02605128e3d4ba.jpg",
+    "static/media/leadershipRewards.png": "/static/media/leadershipRewards.1e569f529356274976be.png",
+    "static/media/background.jpg": "/static/media/background.b01e73e926d895d87595.jpg",
+    "static/media/dummyProfile.png": "/static/media/dummyProfile.a80923620306e6eeadcb.png",
+    "index.html": "/index.html",
+    "main.2f4eaa59.css.map": "/static/css/main.2f4eaa59.css.map",
+    "main.c41b94de.js.map": "/static/js/main.c41b94de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f4eaa59.css",
+    "static/js/main.c41b94de.js"
+  ]
+}
